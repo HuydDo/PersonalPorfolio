@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 1998, text: "Graduated B.S in Computer Science at U.C.D" },
+  { year: 1998, text: "Associated Software Engineer at Rela, Inc." },
+  { year: 2001, text: "Software Developer at Jones Cyber Solution" },
+  { year: 2020, text: "Graduated Online Software Engineer at Flatiron School" },
+  { year: 2021, text: "Business Operations Analyst at Dish" },
 ];
